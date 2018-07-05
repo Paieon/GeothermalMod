@@ -1,0 +1,8 @@
+# Items
+item.salt.name=Salt
+
+# Blocks
+tile.kinetic_generator.name=Kinetic Generator
+
+#Creative Tab
+itemGroup.geothermal=Geothermal Mod
