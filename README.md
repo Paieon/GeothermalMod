@@ -10,8 +10,14 @@ run the command "./gradlew.bat setupDecompWorkspace eclipse"
 
 in eclipse click File > Switch Workspace > Other
 
-Navigate to GeothermalMod
+Create a new folder for your workspace (NOT GeothermalMod folder)
 
-click select
+select it and click ok
+
+click File > Import > Gradle > Existing Gradle Project > Next > Next
+
+Click browse and select the GeothermalMod repo folder and click OK
+
+Click finish
 
 The project should now show up!
