@@ -10,7 +10,7 @@ run the command "./gradlew.bat setupDecompWorkspace eclipse"
 
 in eclipse click File > Switch Workspace > Other
 
-Navigate to GeothermalMod\eclipse
+Navigate to GeothermalMod
 
 click select
 
