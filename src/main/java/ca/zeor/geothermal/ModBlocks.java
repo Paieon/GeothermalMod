@@ -9,9 +9,11 @@ public class ModBlocks {
 	
 	public static BlockBase kineticGenerator = new BlockBase(Material.ROCK, "kinetic_generator");
 	
+	
 	public static void register(IForgeRegistry<Block> registry) {
 		registry.registerAll(
 				kineticGenerator
+				
 		);
 		
 	}
@@ -19,10 +21,12 @@ public class ModBlocks {
 	public static void registerItemBlocks(IForgeRegistry<Item> registry) {
 		registry.registerAll(
 				kineticGenerator.createItemBlock()
+				
 		);
 	}
 	
 	public static void registerModels() {
 		kineticGenerator.registerItemModel(Item.getItemFromBlock(kineticGenerator));
+		
 	}
 }
