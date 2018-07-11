@@ -17,8 +17,6 @@ public class GeothermalMod {
 	public static final String modId = "geothermal";
 	public static final String name = "Geothermal Mod";
 	public static final String version = "1.0.0";
-
-	public static final GeothermalTab creativeTab = new GeothermalTab();
 	
 	@SidedProxy(serverSide = "ca.zeor.geothermal.CommonProxy", clientSide = "ca.zeor.geothermal.ClientProxy")
 	public static CommonProxy proxy;
@@ -46,19 +44,17 @@ public class GeothermalMod {
 		
 		@SubscribeEvent
 		public static void registerBlocks(RegistryEvent.Register<Block> event) {
-			ModBlocks.register(event.getRegistry());
+			
 		}
 		
 		@SubscribeEvent
 		public static void registerItems(RegistryEvent.Register<Item> event) {
-			ModItems.register(event.getRegistry());
-			ModBlocks.registerItemBlocks(event.getRegistry());
+			
 		}
 		
 		@SubscribeEvent
 		public static void registerItems(ModelRegistryEvent event) {
-			ModItems.registerModels();
-			ModBlocks.registerModels();
+			
 		}
 	}
 }
