@@ -15,5 +15,9 @@ public class BlockInit
 	
 	public static final Block SALT_BLOCK = new BlockBase("salt_block", Material.SPONGE);
 	
+	public static final Block SALT_HEATER = new BlockBase("salt_heater", Material.ANVIL);
+	
+	public static final Block TURBINE_BLOCK = new BlockBase("turbine_block", Material.IRON);
+	
 	
 }

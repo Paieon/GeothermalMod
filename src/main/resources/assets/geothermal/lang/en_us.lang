@@ -10,3 +10,5 @@ item.salt.name=Salt
 
 tile.kinetic_generator.name=Kinetic Generator
 tile.salt_block.name=Salt Block
+tile.turbine_block.name=Turbine Block
+tile.salt_heater.name=Salt Heater
