@@ -2,12 +2,9 @@
 
 itemGroup.geothermal=Geothermal Mod
 
-//Items
+// Items go here
 
-item.ingot_copper.name=Copper Ingot
+item.salt.name=Salt
 
-
-//Blocks
-
-//tile.test_block.name=Test Block
+// Blocks go here
 
