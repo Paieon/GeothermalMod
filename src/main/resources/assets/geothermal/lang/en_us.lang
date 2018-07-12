@@ -1,8 +1,14 @@
-# Items
+//Creative Tab
+
+itemGroup.geothermal=Geothermal Mod
+
+// Items go here
+
 item.salt.name=Salt
 
-# Blocks
-tile.kinetic_generator.name=Kinetic Generator
+// Blocks go here
 
-#Creative Tab
-itemGroup.geothermal=Geothermal Mod
+tile.kinetic_generator.name=Kinetic Generator
+tile.salt_block.name=Salt Block
+tile.turbine_block.name=Turbine Block
+tile.salt_heater.name=Salt Heater
