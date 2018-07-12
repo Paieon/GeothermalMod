@@ -13,5 +13,7 @@ public class BlockInit
 
 	public static final Block KINETIC_GENERATOR = new BlockBase("kinetic_generator", Material.IRON);
 	
+	public static final Block SALT_BLOCK = new BlockBase("salt_block", Material.SPONGE);
+	
 	
 }

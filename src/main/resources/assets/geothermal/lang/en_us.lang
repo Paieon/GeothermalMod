@@ -9,3 +9,4 @@ item.salt.name=Salt
 // Blocks go here
 
 tile.kinetic_generator.name=Kinetic Generator
+tile.salt_block.name=Salt Block
