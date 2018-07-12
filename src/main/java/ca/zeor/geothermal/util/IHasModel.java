@@ -1,6 +1,6 @@
 package ca.zeor.geothermal.util;
 
-public interface ModelBase {
+public interface IHasModel {
 
 	public void registerModels(); 
 	

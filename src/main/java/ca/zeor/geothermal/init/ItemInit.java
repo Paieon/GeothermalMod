@@ -10,7 +10,8 @@ public class ItemInit {
 
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	
-	public static final Item TEST_ITEM = new ItemBase("item_test");
+	public static final Item INGOT_COPPER = new ItemBase("copper_ingot");
+	
 	
 	
 	

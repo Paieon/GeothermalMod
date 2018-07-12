@@ -1,8 +1,13 @@
-# Items
-item.salt.name=Salt
+//Creative Tab
 
-# Blocks
-tile.kinetic_generator.name=Kinetic Generator
-
-#Creative Tab
 itemGroup.geothermal=Geothermal Mod
+
+//Items
+
+item.ingot_copper.name=Copper Ingot
+
+
+//Blocks
+
+//tile.test_block.name=Test Block
+
