@@ -3,7 +3,7 @@ package ca.zeor.geothermal.init;
 import java.util.ArrayList;
 import java.util.List;
 
-import ca.zeor.geothermal.objects.items.ItemBase;
+import ca.zeor.geothermal.items.ItemBase;
 import net.minecraft.item.Item;
 
 public class ItemInit {
