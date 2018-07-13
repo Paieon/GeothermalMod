@@ -1,4 +1,4 @@
-package ca.zeor.geothermal.objects.items;
+package ca.zeor.geothermal.items;
 
 import ca.zeor.geothermal.GeothermalMod;
 import ca.zeor.geothermal.init.ItemInit;
