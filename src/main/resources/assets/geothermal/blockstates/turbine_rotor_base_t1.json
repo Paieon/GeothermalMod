@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": {
+			"model": "geothermal:turbine_rotor_base_t1"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": {
+			"model": "geothermal:heatsink_t3"
+		}
+	}
+}

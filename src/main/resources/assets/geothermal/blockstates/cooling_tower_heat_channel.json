@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": {
+			"model": "geothermal:cooling_tower_heat_channel"
+		}
+	}
+}

@@ -1,7 +1,7 @@
 {
 	"variants": {
 		"normal": {
-			"model": "geothermal:turbine_block"
+			"model": "geothermal:heatsink_t1"
 		}
 	}
 }
