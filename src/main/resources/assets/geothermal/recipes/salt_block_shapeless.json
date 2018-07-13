@@ -1,0 +1,30 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "geothermal:salt"
+    },
+
+    {
+      "item": "geothermal:salt"
+    },
+    
+    {
+      "item": "geothermal:salt"
+    },
+    
+    {
+      "item": "geothermal:salt"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "geothermal:salt_block",
+        "count": 1
+    }
+}
